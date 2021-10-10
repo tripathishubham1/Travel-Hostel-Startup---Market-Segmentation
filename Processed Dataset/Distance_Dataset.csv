@@ -1,0 +1,118 @@
+State,Circle,Name of the Monument,Airport,Railway
+Uttar Pradesh,Agra Circle,Taj Mahal,12,7
+Uttar Pradesh,Agra Circle,Agra Fort,11,5
+Uttar Pradesh,Agra Circle,Akbar's Tomb Sikandara,13,12
+Uttar Pradesh,Agra Circle,Fatehpur Sikri,35,37
+Uttar Pradesh,Agra Circle,Itimad-ud-Daulah,15,9
+Uttar Pradesh,Agra Circle,Mehtab Bagh,16,10
+Uttar Pradesh,Agra Circle,RamBagh,12,11
+Uttar Pradesh,Agra Circle,Mariam's Tomb Sikandara,14,12
+Maharashtra,Aurangabad Circle,Ellora Caves,36,28
+Maharashtra,Aurangabad Circle,Bibi-Ka-Maqbara,13,6
+Maharashtra,Aurangabad Circle,Daulatabad Fort,23,15
+Maharashtra,Aurangabad Circle,Ajanta Caves,104,122
+Maharashtra,Aurangabad Circle,Pandaulena Caves,3,13
+Maharashtra,Aurangabad Circle,Aurangabad Caves,15,9
+Karnataka,Bengaluru Circle,Daria Daulat Bagh Srirangapatnam,0.5,3
+Karnataka,Bengaluru Circle,Chitradurga Fort Chitradurga,3,3
+Karnataka,Bengaluru Circle,Keshava Temple Somnathpur,168,180
+Karnataka,Bengaluru Circle,Tippu palace Bangalore,37,3
+Madhya Pradesh,Bhopal Circle,Roopmati Pavilion,88,59
+Madhya Pradesh,Bhopal Circle,Royal Palaces Mandu,282,286
+Madhya Pradesh,Bhopal Circle,Gwalior Fort,10,3
+Madhya Pradesh,Bhopal Circle,Western Group of Temple Khajuraho,3,8
+Madhya Pradesh,Bhopal Circle,Buddhist Monuments Sanchi,55,47
+Madhya Pradesh,Bhopal Circle,"Hoshang Shah's Tomb, Mandu",269,288
+Madhya Pradesh,Bhopal Circle,The Palace Situated Burhapur,162,52
+Madhya Pradesh,Bhopal Circle,Buddhist Caves,231,1
+Odisha,Bhubaneswar Circle,Sun Temple Konark,63,37
+Odisha,Bhubaneswar Circle,Udayagiri and Khandagiri Sites,8,9
+Odisha,Bhubaneswar Circle,Ratnagiri Monument,91,84
+Odisha,Bhubaneswar Circle,Raja Rani Temple,4,5
+Odisha,Bhubaneswar Circle,Lalitagiri Monument,87,58
+Odisha,Bhubaneswar Circle,Ashokan Rock Edicts,10,11
+Punjab,Chandigarh Circle,Sheikh Chilli's Tomb Thanesar,97,2
+Punjab,Chandigarh Circle,Surajkund Faridabad,24,3
+Tamilnadu,Chennai Circle,"Group of Monuments, Mamallapuram",54,29
+Tamilnadu,Chennai Circle,"Gingee Fort, Gingee",150,27
+Tamilnadu,Chennai Circle,Fort Museum Thirumayam,61,2
+Tamilnadu,Chennai Circle,"Rock cut-Jain Temple, Sittanasal",45,9
+Tamilnadu,Chennai Circle,Fort on Rock Dindigul,82,1
+Tamilnadu,Chennai Circle,Natural Caves with inscription Eladipattam Sittannavasal,45,9
+Tamilnadu,Chennai Circle,Moovarkoil Kodambalur,41,14
+Uttar Pradesh,Delhi Circle,QutabMinar,10,18
+Uttar Pradesh,Delhi Circle,Red Fort,11,1
+Uttar Pradesh,Delhi Circle,Humayun's Tomb,17,2
+Uttar Pradesh,Delhi Circle,PuranaQuila,26,5
+Uttar Pradesh,Delhi Circle,JantarMantar,15,5
+Uttar Pradesh,Delhi Circle,Safdarjung Tomb,15,2
+Uttar Pradesh,Delhi Circle,KotlaFeroz Shah,21,3
+Uttar Pradesh,Delhi Circle,Tughluqabad,14,9
+Uttar Pradesh,Delhi Circle,Khan-1-Khana,16,1
+Uttar Pradesh,Delhi Circle,Sultanghari 's Tomb,5,22
+Karnataka,Dharwad Circle,Gol- Gumbaz Bijapur,202,1
+Karnataka,Dharwad Circle,"Caves, Badami",190,5
+Karnataka,Dharwad Circle,"Group of Monuments (WH), Pattadakal",221,20
+Karnataka,Dharwad Circle,"Durga Temple Complex, Aihole",106,30
+Karnataka,Dharwad Circle,Ibrahim Rouza Bijapur,205,2
+Karnataka,Dharwad Circle,Temple & Sculpture Shed Lakkundi,73,11
+Assam,Guwahati Circle,Karenghar of Ahoms Kings Sibsagar,60,3
+Assam,Guwahati Circle,Ranghar Pavillion Jaisagar,59,19
+Assam,Guwahati Circle,"AhomRaja's Palace, Garhgaon Distt.Sibsagar",67,3
+Assam,Guwahati Circle,Group of four Maidams Cheraideo Distt. Sibsagar,80,14
+Assam,Guwahati Circle,Bishnudol Joysagar,59,17
+Karnataka,Hampi Mini Circle,Zananna Enclosure & Vittala Temple,35,11
+Karnataka,Hampi Mini Circle,Bellary,5,13
+Telangana,Hyderabad Circle,Golconda,16,7
+Telangana,Hyderabad Circle,Charminar,14,2
+Telangana,Hyderabad Circle,Warangal,8,3
+Telangana,Hyderabad Circle,Chandragiri,32,4
+Telangana,Hyderabad Circle,Nagarjunakonda,12,30
+Telangana,Hyderabad Circle,Undavalli,26,5
+Telangana,Hyderabad Circle,Guntupalli,22,3
+Telangana,Hyderabad Circle,Mahastupa Amaravathi,56,42
+Rajasthan,Jaipur Circle,Deeg Palaces Deeg Distt. Bharatpur,92,1
+Rajasthan,Jodhpur Circle,Chittaurgarh,38,1
+Rajasthan,Jodhpur Circle,Kumbhalgarh,53,52
+West Bengal,Kolkata Circle,Hazardwari Palace,88,2
+West Bengal,Kolkata Circle,Koch Bihar Palace,5,3
+West Bengal,Kolkata Circle,"Bishnupur Group of Temples
+",103,3
+Jammu & Kashmir,Leh Mini Circle,Leh Palace,5,616
+Uttar Pradesh,Lucknow Circle,Residency Lucknow,16,2
+Uttar Pradesh,Lucknow Circle,Jhansi Fort,6,3
+Uttar Pradesh,Lucknow Circle,SahetSravasti,16,1
+Uttar Pradesh,Lucknow Circle,Rani Mahal,4,4
+Uttar Pradesh,Lucknow Circle,Kalinjar Fort,93,41
+Maharashtra,Mumbai Circle,Shaniwarwada Pune,11,2
+Maharashtra,Mumbai Circle,Elephanta caves Gharapuri Mumbai,38,17
+Maharashtra,Mumbai Circle,Lenyadri Caves,94,87
+Maharashtra,Mumbai Circle,Kanheri Caves Mumbai (Suburban),22,7
+Maharashtra,Mumbai Circle,Karla Caves Karla,34,5
+Maharashtra,Mumbai Circle,Raigad Fort,142,28
+Maharashtra,Mumbai Circle,Aga Khan Palace Pune,4,6
+Maharashtra,Mumbai Circle,"Caves, Temples & Inscription Bhaja",64,13
+Maharashtra,Mumbai Circle,Kolaba Fort,105,34
+Maharashtra,Mumbai Circle,Old Fort Sholapur,254,2
+Bihar,Patna Circle,Excavated Remains atNalanda,93,3
+Bihar,Patna Circle,ShershahSuri 's Tomb,147,2
+Bihar,Patna Circle,Ancient site of Vaishali Kolhua,65,11
+Bihar,Patna Circle,"Remains of Patliputra Kumrahar, Patna",14,6
+Bihar,Patna Circle,Excavated Site Vikramshila Antichak,294,5
+Chattisgadh,Raipur Circle,Laxman Temple Sirpur,80,84
+Uttar Pradesh,Sarnath Circle,Excavated remains at Sarnath,25,8
+Uttar Pradesh,Sarnath Circle,Old Fort (Shahi fort) Jaunpur,45,2
+Uttar Pradesh,Sarnath Circle,"Lord Cornwallis Tomb, Ghazipur",92,5
+Uttar Pradesh,Sarnath Circle,Observatory Man Singh (Man Mahal) Varanasi,25,4
+Himachal Pradesh,Shimla Mini Circle,Kangra Fort,12,20
+Himachal Pradesh,Shimla Mini Circle,Masrur,35,45
+Jammu & Kashmir,Srinagar Circle,Avantiswamin Temple Avantipur Distt. Pulwama,238,7
+Jammu & Kashmir,Srinagar Circle,"Palace complex at Ram Nagar, Distt. Udhampur",99,38
+Jammu & Kashmir,Srinagar Circle,Group of Temples atKiramchi Distt. Udhampur,70,15
+Kerala,Thrissur Circle,"Bekal Fort Pallikkare, Distt. Kasargode",73,2
+Kerala,Thrissur Circle,Mattancherry Palace Museum Kochi,41,6
+Gujarat,Vadodara Circle,Sun Temple Modhera,94,29
+Gujarat,Vadodara Circle,Rani-ki-Vav Patan,123,4
+Gujarat,Vadodara Circle,Jama Masjid Saherki Masjid Champaner- Pavagadh,43,7
+Gujarat,Vadodara Circle,Buddhist Caves Junagadh,104,1
+Gujarat,Vadodara Circle,"BabaPyara & Khapra Kodiya Caves, Junagarh",104,2
